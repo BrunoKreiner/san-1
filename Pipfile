@@ -1,0 +1,31 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+networkx = "*"
+seaborn = "*"
+matplotlib = "*"
+pandas = "*"
+python-louvain = "*"
+numpy = "*"
+scikit-learn = "*"
+mlxtend = "*"
+texttable = "*"
+statsmodels = "*"
+scipy = "*"
+psutil = "*"
+tensorflow = "*"
+gensim = "*"
+joblib = "*"
+fastdtw = "*"
+tqdm = "*"
+python-Levenshtein = "*"
+community = "*"
+python-levenshtein-wheels = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
