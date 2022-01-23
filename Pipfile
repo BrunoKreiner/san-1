@@ -8,7 +8,6 @@ networkx = "*"
 seaborn = "*"
 matplotlib = "*"
 pandas = "*"
-python-louvain = "*"
 numpy = "*"
 scikit-learn = "*"
 mlxtend = "*"
@@ -22,8 +21,9 @@ joblib = "*"
 fastdtw = "*"
 tqdm = "*"
 python-Levenshtein = "*"
-community = "*"
 python-levenshtein-wheels = "*"
+libs = "*"
+qap = "*"
 
 [dev-packages]
 
